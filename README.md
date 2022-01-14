@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# Celvalues.github.io
+The The Celvalues quiz measures individual's agreement with the "Pills" on the manosphere.
